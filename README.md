@@ -1,86 +1,92 @@
-*Hi there 👋, I'm Shraddha Bankar*
+# 👋 Hi there, I'm Shraddha Bankar  
 
-💡 Turning Data into Insights | 🤖 Building AI Solutions | 📊 Future Data Scientist
+### 💡 Turning Data into Insights | 🤖 Building AI Solutions | 📊 Future Data Scientist  
 
-##🚀 About Me
+---
 
-🎓 Computer Science Engineering (Data Science) student 
+# 🚀 ABOUT ME  
 
-💡 Passionate about solving real-world problems using AI & Machine Learning
+🎓 Computer Science Engineering (Data Science) student  
 
-📊 Working with data, finding patterns, and building smart solutions
+💡 Passionate about solving real-world problems using AI & Machine Learning  
 
-🌱 Currently learning Data Science, Machine Learning & AI
+📊 Working with data, finding patterns, and building smart solutions  
 
-🚀 Focused on becoming a job-ready Data Scientist
+🌱 Currently learning Data Science, Machine Learning & AI  
 
-##🛠️ Tech Stack & Skills
+🚀 Focused on becoming a job-ready Data Scientist  
 
-👩‍💻 Programming
-Python 🐍
+---
 
-📊 Data Analysis
-Pandas | NumPy
+# 🛠️ TECH STACK & SKILLS  
 
-📈 Visualization
-Matplotlib
+### 👩‍💻 Programming  
+- Python 🐍  
 
-🤖 Machine Learning
-Scikit-learn (Logistic Regression, Random Forest)
+### 📊 Data Analysis  
+- Pandas | NumPy  
 
-⚙️ Tools
-Jupyter Notebook | Google Colab | GitHub
+### 📈 Visualization  
+- Matplotlib  
 
-##🚀 Featured Project
+### 🤖 Machine Learning  
+- Scikit-learn (Logistic Regression, Random Forest)  
 
-🔹 Stress Prediction using Machine Learning
+### ⚙️ Tools  
+- Jupyter Notebook | Google Colab | GitHub  
 
-✨ Overview:
+---
 
-A Machine Learning project that predicts stress levels based on lifestyle and behavioral data.
+# 🚀 FEATURED PROJECT  
 
-🔍 Key Work:
+## 🔹 Stress Prediction using Machine Learning  
 
-Data Cleaning & Preprocessing
+✨ **Overview:**  
+A Machine Learning project that predicts stress levels based on lifestyle and behavioral data.  
 
-Exploratory Data Analysis (EDA)
+🔍 **Key Work:**  
+- Data Cleaning & Preprocessing  
+- Exploratory Data Analysis (EDA)  
+- Feature Engineering  
+- Model Building using ML algorithms  
 
-Feature Engineering
+🧠 **Algorithms Used:**  
+- Logistic Regression  
+- Random Forest  
 
-Model Building using ML algorithms
+📊 **Impact:**  
+- Helps in early stress detection  
+- Promotes mental health awareness  
 
-🧠 Algorithms Used:
+---
 
-Logistic Regression
+# 📊 GITHUB STATS  
 
-Random Forest
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Shraddha-Bankar&show_icons=true&theme=radical" alt="stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shraddha-Bankar&theme=radical" alt="streak" />
+</p>
 
-📊 Impact:
+---
 
-Helps in early stress detection
+# 🎯 GOALS  
 
-Promotes mental health awareness
+- 🚀 Become a Data Scientist / AI Engineer  
+- 📊 Build impactful AI & Data Science projects  
+- 🌍 Solve real-world problems using data  
+- 🤝 Contribute to open-source  
 
-##📊 GitHub Stats
+---
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Shraddha-Bankar&show_icons=true&theme=radical" alt="stats" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shraddha-Bankar&theme=radical" alt="streak" /> </p>
+# 📫 CONNECT WITH ME  
 
-##🎯 Goals
+- 💼 LinkedIn: https://www.linkedin.com/in/shraddha-bankar-5a0564312  
+- 📧 Email: shraddhabankar64@gmail.com  
 
-🚀 Become a Data Scientist / AI Engineer
+---
 
-📊 Build impactful AI & Data Science projects
+# ⚡ FUN FACT  
 
-🌍 Solve real-world problems using data
+✨ I enjoy transforming messy data into meaningful insights and building solutions that can make a difference 🚀  
 
-🤝 Contribute to open-source
-
-##📫 Connect with Me
-
-💼 LinkedIn: www.linkedin.com/in/shraddha-bankar-5a0564312
-
-📧 Email: shraddhabankar64@gmail.com
-
-##⚡ Fun Fact
-
-✨ I enjoy transforming messy data into meaningful insights and building solutions that can make a difference
+---

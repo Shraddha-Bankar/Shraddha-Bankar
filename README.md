@@ -47,7 +47,8 @@ Turning data into insights | Building AI solutions | Data Science learner
 ## GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shraddha-Bankar&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Shraddha-Bankar&show_icons=true&theme=radical" alt="stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shraddha-Bankar&theme=radical" alt="streak" />
 </p>
 
 ---

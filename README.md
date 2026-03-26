@@ -1,76 +1,73 @@
-# 👋 Hi there, I'm Shraddha Bankar  
+# Hi there 👋, I'm Shraddha Bankar  
 
-💡 Turning Data into Insights | 🤖 Building AI Solutions | 📊 Data Scientist  
+Turning data into insights | Building AI solutions | Data Science learner  
 
 ---
 
-# 🚀 ABOUT ME  
+## About Me  
 
 🎓 Computer Science Engineering (Data Science) student  
-💡 Passionate about solving real-world problems using AI & Machine Learning  
-📊 Working with data, finding patterns, and building smart solutions  
-🌱 Currently learning Data Science, Machine Learning & AI  
+💡 Interested in solving real-world problems using AI & Machine Learning  
+📊 Enjoy working with data, finding patterns, and building practical solutions  
+🌱 Currently learning Data Science, Machine Learning, and AI  
 🚀 Focused on becoming a job-ready Data Scientist  
 
 ---
 
-# 🛠️ TECH STACK & SKILLS  
+## Skills  
 
-### 👩‍💻 Programming  
-- Python 🐍  
-### 📊 Data Analysis  
-- Pandas | NumPy  
-### 📈 Visualization  
+**Programming**  
+- Python  
+
+**Data Analysis**  
+- Pandas, NumPy  
+
+**Visualization**  
 - Matplotlib  
-### 🤖 Machine Learning  
+
+**Machine Learning**  
 - Scikit-learn (Logistic Regression, Random Forest)  
-### ⚙️ Tools  
-- Jupyter Notebook | Google Colab | GitHub  
+
+**Tools**  
+- Jupyter Notebook, Google Colab, GitHub  
 
 ---
 
-# 🚀 FEATURED PROJECT  
-## 🔹 Stress Prediction using Machine Learning  
-✨ **Overview:**  
-A Machine Learning project that predicts stress levels based on lifestyle and behavioral data.  
-🔍 **Key Work:**  
-- Data Cleaning & Preprocessing  
-- Exploratory Data Analysis (EDA)  
-- Feature Engineering  
-- Model Building using ML algorithms  
-🧠 **Algorithms Used:**  
-- Logistic Regression  
-- Random Forest  
-📊 **Impact:**  
-- Helps in early stress detection  
-- Promotes mental health awareness  
+## Project  
+
+**Stress Prediction using Machine Learning**  
+
+- Built a model to predict stress levels using lifestyle and behavioral data  
+- Performed data cleaning, preprocessing, and exploratory data analysis  
+- Applied machine learning algorithms like Logistic Regression and Random Forest  
+- Focused on early stress detection and awareness  
 
 ---
 
-# 📊 GITHUB STATS  
+## GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shraddha-Bankar&show_icons=true&theme=radical" alt="stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shraddha-Bankar&theme=radical" alt="streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Shraddha-Bankar&show_icons=true" />
 </p>
 
 ---
 
-# 🎯 GOALS  
-- 🚀 Become a Data Scientist / AI Engineer  
-- 📊 Build impactful AI & Data Science projects  
-- 🌍 Solve real-world problems using data  
-- 🤝 Contribute to open-source  
+## Goals  
+
+- Become a Data Scientist / AI Engineer  
+- Build real-world Data Science and AI projects  
+- Improve problem-solving and technical skills  
+- Contribute to open-source  
 
 ---
 
-# 📫 CONNECT WITH ME  
-- 💼 LinkedIn: https://www.linkedin.com/in/shraddha-bankar-5a0564312  
-- 📧 Email: shraddhabankar64@gmail.com  
+## Connect with Me  
+
+- LinkedIn: https://www.linkedin.com/in/shraddha-bankar-5a0564312  
+- Email: shraddhabankar64@gmail.com  
 
 ---
 
-# ⚡ FUN FACT  
-✨ I enjoy transforming messy data into meaningful insights and building solutions that can make a difference 🚀  
+## Fun Fact  
 
----
+I enjoy turning raw data into meaningful insights and solving real-life problems  

@@ -1,19 +1,15 @@
 # 👋 Hi there, I'm Shraddha Bankar  
 
-### 💡 Turning Data into Insights | 🤖 Building AI Solutions | 📊 Future Data Scientist  
+💡 Turning Data into Insights | 🤖 Building AI Solutions | 📊 Data Scientist  
 
 ---
 
 # 🚀 ABOUT ME  
 
 🎓 Computer Science Engineering (Data Science) student  
-
 💡 Passionate about solving real-world problems using AI & Machine Learning  
-
 📊 Working with data, finding patterns, and building smart solutions  
-
 🌱 Currently learning Data Science, Machine Learning & AI  
-
 🚀 Focused on becoming a job-ready Data Scientist  
 
 ---
@@ -22,38 +18,29 @@
 
 ### 👩‍💻 Programming  
 - Python 🐍  
-
 ### 📊 Data Analysis  
 - Pandas | NumPy  
-
 ### 📈 Visualization  
 - Matplotlib  
-
 ### 🤖 Machine Learning  
 - Scikit-learn (Logistic Regression, Random Forest)  
-
 ### ⚙️ Tools  
 - Jupyter Notebook | Google Colab | GitHub  
 
 ---
 
 # 🚀 FEATURED PROJECT  
-
 ## 🔹 Stress Prediction using Machine Learning  
-
 ✨ **Overview:**  
 A Machine Learning project that predicts stress levels based on lifestyle and behavioral data.  
-
 🔍 **Key Work:**  
 - Data Cleaning & Preprocessing  
 - Exploratory Data Analysis (EDA)  
 - Feature Engineering  
 - Model Building using ML algorithms  
-
 🧠 **Algorithms Used:**  
 - Logistic Regression  
 - Random Forest  
-
 📊 **Impact:**  
 - Helps in early stress detection  
 - Promotes mental health awareness  
@@ -70,7 +57,6 @@ A Machine Learning project that predicts stress levels based on lifestyle and be
 ---
 
 # 🎯 GOALS  
-
 - 🚀 Become a Data Scientist / AI Engineer  
 - 📊 Build impactful AI & Data Science projects  
 - 🌍 Solve real-world problems using data  
@@ -79,14 +65,12 @@ A Machine Learning project that predicts stress levels based on lifestyle and be
 ---
 
 # 📫 CONNECT WITH ME  
-
 - 💼 LinkedIn: https://www.linkedin.com/in/shraddha-bankar-5a0564312  
 - 📧 Email: shraddhabankar64@gmail.com  
 
 ---
 
 # ⚡ FUN FACT  
-
 ✨ I enjoy transforming messy data into meaningful insights and building solutions that can make a difference 🚀  
 
 ---

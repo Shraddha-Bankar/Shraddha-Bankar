@@ -1,4 +1,4 @@
-##Hi there 👋, I'm Shraddha Bankar
+*Hi there 👋, I'm Shraddha Bankar*
 
 💡 Turning Data into Insights | 🤖 Building AI Solutions | 📊 Future Data Scientist
 

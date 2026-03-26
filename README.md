@@ -4,7 +4,7 @@ Turning data into insights | Building AI solutions | Data Science learner
 
 ---
 
-## About Me  
+## 👨‍💻About Me  
 
 🎓 Computer Science Engineering (Data Science) student  
 💡 Interested in solving real-world problems using AI & Machine Learning  
@@ -14,7 +14,7 @@ Turning data into insights | Building AI solutions | Data Science learner
 
 ---
 
-## Skills  
+## 🛠️Tech Stack & Skills 
 
 **Programming**  
 - Python  
@@ -33,7 +33,7 @@ Turning data into insights | Building AI solutions | Data Science learner
 
 ---
 
-## Project  
+## 🚀Featured Project  
 
 **Stress Prediction using Machine Learning**  
 
@@ -44,7 +44,7 @@ Turning data into insights | Building AI solutions | Data Science learner
 
 ---
 
-## GitHub Stats  
+## 📊GitHub Stats  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Shraddha-Bankar&show_icons=true&theme=radical" alt="stats" />
@@ -53,7 +53,7 @@ Turning data into insights | Building AI solutions | Data Science learner
 
 ---
 
-## Goals  
+## 🎯Goals  
 
 - Become a Data Scientist / AI Engineer  
 - Build real-world Data Science and AI projects  
@@ -62,7 +62,7 @@ Turning data into insights | Building AI solutions | Data Science learner
 
 ---
 
-## Connect with Me  
+## 📫Connect with Me  
 
 - LinkedIn: https://www.linkedin.com/in/shraddha-bankar-5a0564312  
 - Email: shraddhabankar64@gmail.com  

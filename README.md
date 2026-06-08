@@ -1,74 +1,161 @@
-# Hi there, I'm Shraddha Bankar  
+<div align="center">
 
-Turning data into insights | Building AI solutions | Data Science learner  
+<img width="100%" src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Shraddha%20Bankar&fontSize=52&fontColor=ffffff&animation=blinkingFade&fontAlignY=45&desc=Data%20Science%20%7C%20Machine%20Learning%20%7C%20AI%20Enthusiast&descAlignY=65&descSize=17&descColor=64ffda"/>
 
----
+</div>
 
-## 👨‍💻About Me  
-
-🎓 Computer Science Engineering (Data Science) student  
-💡 Interested in solving real-world problems using AI & Machine Learning  
-📊 Enjoy working with data, finding patterns, and building practical solutions  
-🌱 Currently learning Data Science, Machine Learning, and AI  
-🚀 Focused on becoming a job-ready Data Scientist  
-
----
-
-## 🛠️Tech Stack & Skills 
-
-**Programming**  
-- Python  
-
-**Data Analysis**  
-- Pandas, NumPy  
-
-**Visualization**  
-- Matplotlib  
-
-**Machine Learning**  
-- Scikit-learn (Logistic Regression, Random Forest)  
-
-**Tools**  
-- Jupyter Notebook, Google Colab, GitHub  
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Shraddha-Bankar&label=Profile+Views&color=2c5364&style=flat-square" />
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/shraddha-bankar-5a0564312">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:shraddhabankar64@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Say%20Hi!-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+  </a>
+</div>
 
 ---
 
-## 🚀Featured Project  
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
 
-**Stress Prediction using Machine Learning**  
+## 🧠 About Me
 
-- Built a model to predict stress levels using lifestyle and behavioral data  
-- Performed data cleaning, preprocessing, and exploratory data analysis  
-- Applied machine learning algorithms like Logistic Regression and Random Forest  
-- Focused on early stress detection and awareness  
+```python
+class Shraddha:
+    name       = "Shraddha Bankar"
+    degree     = "B.Tech CSE (Data Science)"
+    university = "Nagpur"
+    passion    = ["Data Science", "Machine Learning", "AI"]
+    goal       = "Data Scientist / AI Engineer"
+    currently  = "Learning · Building · Growing"
+    fun_fact   = "I turn raw data into real stories 📊"
+```
 
----
-
-## 📊GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shraddha-Bankar&show_icons=true&theme=radical" alt="stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shraddha-Bankar&theme=radical" alt="streak" />
-</p>
-
----
-
-## 🎯Goals  
-
-- Become a Data Scientist / AI Engineer  
-- Build real-world Data Science and AI projects  
-- Improve problem-solving and technical skills  
-- Contribute to open-source  
+<br clear="right"/>
 
 ---
 
-## 📫Connect with Me  
+## 🛠️ Tech Stack
 
-- LinkedIn: https://www.linkedin.com/in/shraddha-bankar-5a0564312  
-- Email: shraddhabankar64@gmail.com  
+<div align="center">
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+**Data Science & ML**
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+**Tools & Platforms**
+
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+</div>
 
 ---
 
-## Fun Fact  
+## 🚀 Featured Projects
 
-I enjoy turning raw data into meaningful insights and solving real-life problems  
+<table>
+<tr>
+<td width="50%">
+
+### 😟 Stress Prediction using ML
+> Predicts stress levels from lifestyle & behavioral data using Logistic Regression and Random Forest. Full EDA + preprocessing pipeline for early mental health awareness.
+
+`Python` `Scikit-learn` `Pandas` `Matplotlib`
+
+🔗 [View Project](https://github.com/Shraddha-Bankar)
+
+</td>
+<td width="50%">
+
+### 📊 More Projects Coming Soon...
+> Currently building new Data Science & AI projects to solve real-world problems.
+
+`Machine Learning` `NLP` `AI`
+
+🌱 *Stay tuned!*
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Shraddha-Bankar&show_icons=true&theme=merko&hide_border=true&count_private=true&title_color=64ffda&icon_color=2c5364" height="165"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shraddha-Bankar&layout=compact&theme=merko&hide_border=true&title_color=64ffda" height="165"/>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com/?user=Shraddha-Bankar&theme=merko&hide_border=true&ring=64ffda&fire=2c5364&currStreakLabel=64ffda"/>
+
+</div>
+
+---
+
+## 🏆 Achievements
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Shraddha-Bankar&theme=algolia&no-frame=true&no-bg=true&margin-w=10&column=3"/>
+</div>
+
+---
+
+## 🎯 2025 Goals
+
+```
+ ✅  Build real-world Data Science & AI projects
+ 🔄  Master Deep Learning and NLP
+ 📌  Contribute to Open Source
+ 🚀  Land a Data Scientist / AI Engineer role
+ 📚  Keep learning every single day
+```
+
+---
+
+## 📫 Let's Connect
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/shraddha-bankar-5a0564312">
+  <img src="https://img.shields.io/badge/LinkedIn-Shraddha%20Bankar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;
+<a href="mailto:shraddhabankar64@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-shraddhabankar64-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://github.com/Shraddha-Bankar">
+  <img src="https://img.shields.io/badge/GitHub-Shraddha--Bankar-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+
+  <br/><br/>
+
+  <b>💡 "Turning raw data into meaningful insights — one model at a time." 💡</b>
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=cylinder&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>

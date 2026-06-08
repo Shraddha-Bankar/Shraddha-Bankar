@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Shraddha%20Bankar&fontSize=52&fontColor=ffffff&animation=blinkingFade&fontAlignY=45&desc=Data%20Science%20%7C%20Machine%20Learning%20%7C%20AI%20Enthusiast&descAlignY=65&descSize=17&descColor=64ffda"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=slice&color=0:f953c6,100:b91d73&height=200&section=header&text=Shraddha%20Bankar&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Data%20Science%20%7C%20Machine%20Learning%20%7C%20AI%20Enthusiast&descAlignY=62&descSize=18&descColor=ffe0f0"/>
 
 </div>
 
@@ -106,15 +106,7 @@ class Shraddha:
 
 </div>
 
----
 
-## 🏆 Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Shraddha-Bankar&theme=algolia&no-frame=true&no-bg=true&margin-w=10&column=3"/>
-</div>
-
----
 
 ## 🎯 2025 Goals
 
@@ -158,4 +150,4 @@ class Shraddha:
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=cylinder&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=slice&color=0:b91d73,100:f953c6&height=120&section=footer"/>

@@ -70,6 +70,28 @@
 </td>
 <td width="50%">
 
+### 🎙️ AI Voice Receptionist
+> 24/7 AI-powered voice receptionist supporting multiple languages. Handles appointments, CRM, and analytics using only free & open-source tools.
+
+`Python` `Whisper` `Ollama` `FastAPI` `PostgreSQL`
+
+🔗 [View Project](https://github.com/Shraddha-Bankar)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 💆 AI Skincare Recommendation System
+> Intelligent skincare advisor that analyzes skin type and concerns to recommend personalized skincare routines and products using ML.
+
+`Python` `Machine Learning` `NLP` `Scikit-learn`
+
+🔗 [View Project](https://github.com/Shraddha-Bankar)
+
+</td>
+<td width="50%">
+
 ### 📊 More Projects Coming Soon...
 > Currently building new Data Science & AI projects to solve real-world problems.
 

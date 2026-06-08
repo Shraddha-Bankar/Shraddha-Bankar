@@ -18,22 +18,13 @@
 
 ---
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
+## 👨‍💻 About Me
 
-## 🧠 About Me
-
-```python
-class Shraddha:
-    name       = "Shraddha Bankar"
-    degree     = "B.Tech CSE (Data Science)"
-    university = "Nagpur"
-    passion    = ["Data Science", "Machine Learning", "AI"]
-    goal       = "Data Scientist / AI Engineer"
-    currently  = "Learning · Building · Growing"
-    fun_fact   = "I turn raw data into real stories 📊"
-```
-
-<br clear="right"/>
+- 🎓 Computer Science Engineering (Data Science) student
+- 💡 Interested in solving real-world problems using AI & Machine Learning
+- 📊 Enjoy working with data, finding patterns, and building practical solutions
+- 🌱 Currently learning Data Science, Machine Learning, and AI
+- 🚀 Focused on becoming a job-ready Data Scientist
 
 ---
 

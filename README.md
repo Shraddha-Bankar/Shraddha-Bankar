@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=slice&color=0:f953c6,100:b91d73&height=200&section=header&text=Shraddha%20Bankar&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Data%20Science%20%7C%20Machine%20Learning%20%7C%20AI%20Enthusiast&descAlignY=62&descSize=18&descColor=ffe0f0"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=slice&color=0:0a0f2c,100:1a3a6b&height=200&section=header&text=Shraddha%20Bankar&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Data%20Science%20%7C%20Machine%20Learning%20%7C%20AI%20Enthusiast&descAlignY=62&descSize=18&descColor=a8c8ff"/>
 
 </div>
 
@@ -141,4 +141,4 @@
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=slice&color=0:b91d73,100:f953c6&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=slice&color=0:1a3a6b,100:0a0f2c&height=120&section=footer"/>

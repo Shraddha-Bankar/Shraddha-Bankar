@@ -57,10 +57,6 @@
 
 ## 🚀 Featured Projects
 
-<table>
-<tr>
-<td width="50%">
-
 ### 🎙️ AI Voice Receptionist
 > 24/7 AI-powered voice receptionist supporting multiple languages. Handles appointments, CRM, and analytics using only free & open-source tools.
 
@@ -68,8 +64,7 @@
 
 🔗 [View Project](https://github.com/Shraddha-Bankar)
 
-</td>
-<td width="50%">
+---
 
 ### 💆 AI Skincare Recommendation System
 > Intelligent skincare advisor that analyzes skin type and concerns to recommend personalized skincare routines and products using ML.
@@ -78,10 +73,7 @@
 
 🔗 [View Project](https://github.com/Shraddha-Bankar)
 
-</td>
-</tr>
-<tr>
-<td width="50%">
+---
 
 ### 😟 Stress Prediction using ML
 > Predicts stress levels from lifestyle & behavioral data using Logistic Regression and Random Forest. Full EDA + preprocessing pipeline for early mental health awareness.
@@ -89,10 +81,6 @@
 `Python` `Scikit-learn` `Pandas` `Matplotlib`
 
 🔗 [View Project](https://github.com/Shraddha-Bankar)
-
-</td>
-</tr>
-</table>
 
 ---
 

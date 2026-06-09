@@ -35,6 +35,7 @@
 **Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 **Data Science & ML**
 
@@ -60,16 +61,6 @@
 <tr>
 <td width="50%">
 
-### 😟 Stress Prediction using ML
-> Predicts stress levels from lifestyle & behavioral data using Logistic Regression and Random Forest. Full EDA + preprocessing pipeline for early mental health awareness.
-
-`Python` `Scikit-learn` `Pandas` `Matplotlib`
-
-🔗 [View Project](https://github.com/Shraddha-Bankar)
-
-</td>
-<td width="50%">
-
 ### 🎙️ AI Voice Receptionist
 > 24/7 AI-powered voice receptionist supporting multiple languages. Handles appointments, CRM, and analytics using only free & open-source tools.
 
@@ -78,8 +69,6 @@
 🔗 [View Project](https://github.com/Shraddha-Bankar)
 
 </td>
-</tr>
-<tr>
 <td width="50%">
 
 ### 💆 AI Skincare Recommendation System
@@ -90,14 +79,16 @@
 🔗 [View Project](https://github.com/Shraddha-Bankar)
 
 </td>
+</tr>
+<tr>
 <td width="50%">
 
-### 📊 More Projects Coming Soon...
-> Currently building new Data Science & AI projects to solve real-world problems.
+### 😟 Stress Prediction using ML
+> Predicts stress levels from lifestyle & behavioral data using Logistic Regression and Random Forest. Full EDA + preprocessing pipeline for early mental health awareness.
 
-`Machine Learning` `NLP` `AI`
+`Python` `Scikit-learn` `Pandas` `Matplotlib`
 
-🌱 *Stay tuned!*
+🔗 [View Project](https://github.com/Shraddha-Bankar)
 
 </td>
 </tr>
@@ -154,10 +145,6 @@
 ---
 
 <div align="center">
-
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
-
-  <br/><br/>
 
   <b>💡 "Turning raw data into meaningful insights — one model at a time." 💡</b>
 

@@ -58,7 +58,9 @@
 ## 🚀 Featured Projects
 
 ### 🎙️ AI Voice Receptionist
-> 24/7 AI-powered voice receptionist supporting multiple languages. Handles appointments, CRM, and analytics using only free & open-source tools.
+- 24/7 AI-powered voice receptionist that handles calls, appointments, and patient queries automatically.
+- Supports multiple languages including English, Hindi, and Marathi for wider accessibility.
+- Built using free & open-source tools with a full dashboard for CRM, analytics, and call history.
 
 `Python` `Whisper` `Ollama` `FastAPI` `PostgreSQL`
 
@@ -67,7 +69,9 @@
 ---
 
 ### 💆 AI Skincare Recommendation System
-> Intelligent skincare advisor that analyzes skin type and concerns to recommend personalized skincare routines and products using ML.
+- Analyzes user's skin type, concerns, and lifestyle inputs to generate personalized skincare routines.
+- Uses Machine Learning models to match products and ingredients suited to individual needs.
+- Provides intelligent recommendations with explanations to promote healthy skincare awareness.
 
 `Python` `Machine Learning` `NLP` `Scikit-learn`
 
@@ -76,7 +80,9 @@
 ---
 
 ### 😟 Stress Prediction using ML
-> Predicts stress levels from lifestyle & behavioral data using Logistic Regression and Random Forest. Full EDA + preprocessing pipeline for early mental health awareness.
+- Predicts stress levels from lifestyle and behavioral data collected through structured surveys.
+- Performed full EDA and preprocessing pipeline to ensure clean, reliable model input.
+- Applied Logistic Regression and Random Forest algorithms for accurate early stress detection.
 
 `Python` `Scikit-learn` `Pandas` `Matplotlib`
 

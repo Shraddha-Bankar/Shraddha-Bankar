@@ -90,6 +90,28 @@
 
 ---
 
+### 🍱 Smart Food Redistribution Platform
+- Connects food donors with nearby NGOs and individuals to reduce food waste across communities.
+- Uses geolocation-based matching and a demand prediction model to optimize food distribution.
+- Sends real-time multilingual SMS notifications to donors and recipients via Twilio integration.
+
+`Python` `FastAPI` `React` `MongoDB` `Scikit-learn` `Twilio`
+
+🔗 [View Project](https://github.com/Shraddha-Bankar)
+
+---
+
+### 🛣️ Road Lane Detection
+- Detects road lane boundaries in real-time from video streams using computer vision techniques.
+- Applies Canny edge detection and Hough Transform to accurately identify lane markings.
+- Designed to assist in building safer autonomous driving and driver assistance systems.
+
+`Python` `OpenCV` `NumPy` `Computer Vision`
+
+🔗 [View Project](https://github.com/Shraddha-Bankar)
+
+---
+
 ## 📈 GitHub Stats
 
 <div align="center">

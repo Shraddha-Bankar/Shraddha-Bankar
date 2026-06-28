@@ -16,14 +16,14 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
 [![Gmail](https://img.shields.io/badge/Gmail-Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-YOUR__USERNAME-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
+[![GitHub](https://img.shields.io/badge/GitHub-Shraddha--Bankar-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shraddha-Bankar)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Site-7c3aed?style=for-the-badge&logo=vercel&logoColor=white)](https://YOUR_PORTFOLIO_LINK)
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=7c3aed&style=flat-square)
-![GitHub followers](https://img.shields.io/github/followers/YOUR_USERNAME?style=flat-square&color=7c3aed&label=Followers)
-![GitHub Stars](https://img.shields.io/github/stars/YOUR_USERNAME?style=flat-square&color=06b6d4&label=Stars)
+![Profile Views](https://komarev.com/ghpvc/?username=Shraddha-Bankar&label=Profile+Views&color=7c3aed&style=flat-square)
+![GitHub followers](https://img.shields.io/github/followers/Shraddha-Bankar?style=flat-square&color=7c3aed&label=Followers)
+![GitHub Stars](https://img.shields.io/github/stars/Shraddha-Bankar?style=flat-square&color=06b6d4&label=Stars)
 
 </div>
 
@@ -111,7 +111,7 @@ A production-deployed B2B lead generation SaaS platform powered by AI. ProspectP
 | **Deployment** | ✅ Vercel (live in production) |
 | **Key Feature** | Automated B2B prospecting with AI-driven qualification |
 | **Domain** | Sales Intelligence · SaaS · B2B |
-| **Repository** | [View on GitHub](https://github.com/YOUR_USERNAME/ProspectPilot) |
+| **Repository** | [View on GitHub](https://github.com/Shraddha-Bankar/ProspectPilot) |
 
 </details>
 
@@ -134,7 +134,7 @@ A 24/7 AI-powered voice receptionist for medical clinics — built under the nam
 | **Key Feature** | Real-time multilingual speech-in → speech-out medical assistant |
 | **Docs** | IEEE-format README with full architecture documentation |
 | **Domain** | Healthcare · Accessibility · Vernacular AI |
-| **Repository** | [View on GitHub](https://github.com/YOUR_USERNAME/VaaniAI) |
+| **Repository** | [View on GitHub](https://github.com/Shraddha-Bankar/VaaniAI) |
 
 </details>
 
@@ -156,7 +156,7 @@ A production-level AI skincare recommendation engine with camera-based skin scan
 | **Architecture** | Local-first · API-key-optional · offline-capable |
 | **Key Feature** | Real-time skin analysis + personalised ingredient-safe recommendations |
 | **Domain** | Beauty Tech · Consumer AI · Health & Wellness |
-| **Repository** | [View on GitHub](https://github.com/YOUR_USERNAME/Lumiere-AI) |
+| **Repository** | [View on GitHub](https://github.com/Shraddha-Bankar/Lumiere-AI) |
 
 </details>
 
@@ -179,7 +179,7 @@ An AI-powered smart food redistribution platform connecting food donors, NGOs, a
 | **Key Feature** | Live map of available food + expiry-aware redistribution routing |
 | **Impact** | Donors → NGOs → Recipients pipeline across Nagpur |
 | **Domain** | Social Impact · Food Security · Civic Technology |
-| **Repository** | [View on GitHub](https://github.com/YOUR_USERNAME/FoodRescue360) |
+| **Repository** | [View on GitHub](https://github.com/Shraddha-Bankar/FoodRescue360) |
 
 </details>
 
@@ -201,7 +201,7 @@ A complete machine learning pipeline that predicts individual stress levels from
 | **Pipeline** | EDA → Preprocessing → Feature Engineering → Model Training → Evaluation |
 | **Key Feature** | Behavioural-data-driven stress classification with feature importance visualisation |
 | **Domain** | Mental Health · Preventive AI · Early Detection |
-| **Repository** | [View on GitHub](https://github.com/YOUR_USERNAME/Stress-Prediction-ML) |
+| **Repository** | [View on GitHub](https://github.com/Shraddha-Bankar/Stress-Prediction-ML) |
 
 </details>
 
@@ -211,12 +211,12 @@ A complete machine learning pipeline that predicts individual stress levels from
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=06b6d4&icon_color=7c3aed&bg_color=0d1117&text_color=c9d1d9&include_all_commits=true&cache_seconds=1800" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&title_color=06b6d4&bg_color=0d1117&text_color=c9d1d9&langs_count=8&cache_seconds=1800" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Shraddha-Bankar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=06b6d4&icon_color=7c3aed&bg_color=0d1117&text_color=c9d1d9&include_all_commits=true&cache_seconds=1800" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shraddha-Bankar&layout=compact&theme=tokyonight&hide_border=true&title_color=06b6d4&bg_color=0d1117&text_color=c9d1d9&langs_count=8&cache_seconds=1800" />
 
 <br/><br/>
 
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&ring=7c3aed&fire=06b6d4&currStreakLabel=06b6d4&background=0d1117&stroke=30363d&dates=8b949e&sideLabels=06b6d4" />
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=Shraddha-Bankar&theme=tokyonight&hide_border=true&ring=7c3aed&fire=06b6d4&currStreakLabel=06b6d4&background=0d1117&stroke=30363d&dates=8b949e&sideLabels=06b6d4" />
 
 </div>
 
@@ -226,7 +226,7 @@ A complete machine learning pipeline that predicts individual stress levels from
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0d1117&color=06b6d4&line=7c3aed&point=a5f3fc&area=true&area_color=7c3aed&hide_border=true&radius=6)](https://github.com/YOUR_USERNAME)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Shraddha-Bankar&bg_color=0d1117&color=06b6d4&line=7c3aed&point=a5f3fc&area=true&area_color=7c3aed&hide_border=true&radius=6)](https://github.com/Shraddha-Bankar)
 
 </div>
 
@@ -237,9 +237,9 @@ A complete machine learning pipeline that predicts individual stress levels from
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" />
-  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shraddha-Bankar/Shraddha-Bankar/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Shraddha-Bankar/Shraddha-Bankar/output/github-contribution-grid-snake.svg" />
+  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/Shraddha-Bankar/Shraddha-Bankar/output/github-contribution-grid-snake-dark.svg" />
 </picture>
 
 </div>
@@ -297,7 +297,7 @@ currently:
 &nbsp;
 [![Gmail](https://img.shields.io/badge/Gmail-YOUR__EMAIL@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@gmail.com)
 &nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-YOUR__USERNAME-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
+[![GitHub](https://img.shields.io/badge/GitHub-Shraddha--Bankar-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shraddha-Bankar)
 
 </div>
 

@@ -45,15 +45,6 @@ I build **production-grade, AI-powered full-stack web applications** with a focu
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
 
 ## 🛠️ Tech Stack
 
@@ -220,13 +211,12 @@ A complete machine learning pipeline that predicts individual stress levels from
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&hide_border=true&count_private=true&title_color=06b6d4&icon_color=7c3aed&bg_color=0d1117&text_color=c9d1d9&include_all_commits=true" height="175"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark&hide_border=true&title_color=06b6d4&bg_color=0d1117&text_color=c9d1d9&langs_count=8" height="175"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=06b6d4&icon_color=7c3aed&bg_color=0d1117&text_color=c9d1d9&include_all_commits=true&cache_seconds=1800" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&title_color=06b6d4&bg_color=0d1117&text_color=c9d1d9&langs_count=8&cache_seconds=1800" />
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=dark&hide_border=true&ring=7c3aed&fire=06b6d4&currStreakLabel=06b6d4&background=0d1117&stroke=30363d&dates=8b949e"/>
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&ring=7c3aed&fire=06b6d4&currStreakLabel=06b6d4&background=0d1117&stroke=30363d&dates=8b949e&sideLabels=06b6d4" />
 
 </div>
 
@@ -236,7 +226,7 @@ A complete machine learning pipeline that predicts individual stress levels from
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0d1117&color=06b6d4&line=7c3aed&point=ffffff&area=true&hide_border=true)](https://github.com/YOUR_USERNAME)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0d1117&color=06b6d4&line=7c3aed&point=a5f3fc&area=true&area_color=7c3aed&hide_border=true&radius=6)](https://github.com/YOUR_USERNAME)
 
 </div>
 
@@ -247,14 +237,12 @@ A complete machine learning pipeline that predicts individual stress levels from
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" />
+  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" />
 </picture>
 
 </div>
-
-> ⚙️ **Enable the snake:** Go to your repository → Actions tab → Enable the [GitHub Actions snake workflow](https://github.com/Platane/snk) and it will auto-generate.
 
 ---
 
